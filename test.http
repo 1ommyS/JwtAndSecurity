@@ -1,0 +1,5 @@
+GET http://localhost:8080/private/hello
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwicGFzc3dvcmQiOiJjZWEzOTU4OC1lODE4LTQ3YzEtYWM2Ny0wMjAxNTU2NzAyMWYiLCJpYXQiOjE3NTE3OTg4MzYsImV4cCI6MTc1MTgwMjQzNn0.8SFrzdA8XBCK5dKwSzSlr2lSiLqGhw5OB2C3o6evjPw
+
+### Get token
+POST http://localhost:8080/auth
